@@ -1,0 +1,28 @@
+id: '2'
+is-processed: true
+allow-commands: true
+enabled: true
+uuid: 6104732e-46f7-4511-9d7c-1baf39e4ad7e
+world: world
+location:
+  x: -32.5
+  y: 139.0
+  z: -9.5
+  yaw: -179.39453
+  pitch: 18.899872
+type: player
+properties:
+  skin_hat: 'true'
+  skin_right_leg: 'true'
+  skin_jacket: 'true'
+  skin_left_sleeve: 'true'
+  skin_left_leg: 'true'
+  look: CLOSEST_PLAYER
+  skin_right_sleeve: 'true'
+  skin_cape: 'true'
+hologram:
+  lines:
+  - '&6SKY WARS'
+  - '&aCLICK'
+actions:
+- lol.pyr.znpcsplus.interaction.playercommand.PlayerCommandAction;c2t5d2FycyBsb2JieQ==;1000;ANY_CLICK;0

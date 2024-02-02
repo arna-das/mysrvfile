@@ -1,0 +1,106 @@
+MyAnimation1:
+  change-interval: 100
+  texts:
+    - '&d-&3--------------'
+    - '&3-&d-&3-------------'
+    - '&3--&d-&3------------'
+    - '&3---&d-&3-----------'
+    - '&3----&d-&3----------'
+    - '&3-----&d-&3---------'
+    - '&3------&d-&3--------'
+    - '&3-------&d-&3-------'
+    - '&3--------&d-&3------'
+    - '&3---------&d-&3-----'
+    - '&3----------&d-&3----'
+    - '&3-----------&d-&3---'
+    - '&3------------&d-&3--'
+    - '&3-------------&d-&3-'
+    - '&3--------------&d-'
+    - '&3-------------&d-&3-'
+    - '&3------------&d-&3--'
+    - '&3-----------&d-&3---'
+    - '&3----------&d-&3----'
+    - '&3---------&d-&3-----'
+    - '&3--------&d-&3------'
+    - '&3-------&d-&3-------'
+    - '&3------&d-&3--------'
+    - '&3-----&d-&3---------'
+    - '&3----&d-&3----------'
+    - '&3---&d-&3-----------'
+    - '&3--&d-&3------------'
+    - '&3-&d-&3-------------'
+    - '&d-&3--------------'
+ServerName:
+  change-interval: 300
+  texts:
+  - '&c&lSUN NETWORK'
+  - '&c&n&lSUN NETWORK'
+  - '&b&lSUN NETWORK'
+  - '&b&l&nSUN NETWORK'
+  - '&e&lSUN NETWORK'
+  - '&e&n&lSUN NETWORK'
+web:
+  change-interval: 200
+  texts:
+  - '&ewww.sunnetwork.us.to'
+  - '&ewww.sunnetwork.us.to'
+  - '&ewww.sunnetwork.us.to'
+  - '&ewww.sunnetwork.us.to'
+  - '&ewww.sunnetwork.us.to'
+  - '&ewww.sunnetwork.us.to'
+  - '&6w&eww.sunnetwork.us.to'
+  - '&ew&6w&ew.sunnetwork.us.to'
+  - '&eww&6w&e.sunnetwork.us.to'
+  - '&ewww&6.&esunnetwork.us.to'
+  - '&ewww.&6s&eunnetwork.us.to'
+  - '&ewww.s&6u&nnetwork.us.to'
+  - '&ewww.su&6n&enetwork.us.to'
+  - '&ewww.sun&6n&eetwork.us.to'
+  - '&ewww.sunn&6i&eetwork.us.to'
+  - '&ewww.sun&6n&eetwork.us.to'
+  - '&ewww.sunnetwork.us.to'
+  - '&ewww.sunnetwork.us.to'
+  - '&www.sunnetwork.us.to'
+  - '&ewww.sunnetwork.us.to'
+  - '&ewww.sunnetwork.us.to'
+  - '&ewww.sunnetwork.us.to'
+vote:
+  change-interval: 1000
+  texts:
+  - '&avote.domain.com'
+  - '&a&nvote.domain.com'
+  - '&5vote.domain.com'
+  - '&5&nvote.domain.com'
+Welcome:
+  change-interval: 400
+  texts:
+  - '&7&lW_'
+  - '&7&lW_'
+  - '&7&lWe_'
+  - '&7&lWel_'
+  - '&7&lWelc_'
+  - '&7&lWelco_'
+  - '&7&lWelcom_'
+  - '&7&lWelcome_'
+  - '&7&lWelcome_'
+  - '&7&lWelcome_'
+  - '&7&lWelcome_'
+  - '&7&lWelcom_'
+  - '&7&lWelco_'
+  - '&7&lWelc_'
+  - '&7&lWel_'
+  - '&7&lWe_'
+  - '&7&lW_'
+  - '&7&lW_'
+time:
+  change-interval: 3000
+  texts:
+    - '&7Time &b%time%'
+    - '&7Date &b%date%'
+barcolors:
+  change-interval: 1000
+  texts:
+    - RED
+    - BLUE
+    - GREEN
+    - YELLOW

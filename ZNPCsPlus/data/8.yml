@@ -1,0 +1,27 @@
+id: '8'
+is-processed: true
+allow-commands: true
+enabled: true
+uuid: b2128753-d5c5-41c9-9682-ec4f65aee7b4
+world: world
+location:
+  x: -24.5
+  y: 139.0
+  z: -17.5
+  yaw: 96.60193
+  pitch: 7.650068
+type: player
+properties:
+  skin_hat: 'true'
+  skin_right_leg: 'true'
+  skin_jacket: 'true'
+  skin_left_sleeve: 'true'
+  skin_left_leg: 'true'
+  look: CLOSEST_PLAYER
+  skin_right_sleeve: 'true'
+  skin_cape: 'true'
+hologram:
+  lines:
+  - '&6ZOMBIE FIGHT'
+  - '&4COMING SOON'
+actions: []

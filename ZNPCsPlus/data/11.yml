@@ -1,0 +1,28 @@
+id: '11'
+is-processed: true
+allow-commands: true
+enabled: true
+uuid: 8f48d0ab-126c-45dd-9416-6316e702149c
+world: skyblockhub
+location:
+  x: 71.5
+  y: 92.0
+  z: -44.5
+  yaw: 102.89904
+  pitch: 0.7500161
+type: player
+properties:
+  skin_hat: 'true'
+  skin_jacket: 'true'
+  skin_left_sleeve: 'true'
+  skin_right_leg: 'true'
+  skin_left_leg: 'true'
+  skin_right_sleeve: 'true'
+  look: CLOSEST_PLAYER
+  skin_cape: 'true'
+hologram:
+  lines:
+  - '&a&lSHOP'
+  - '&6CLICK'
+actions:
+- lol.pyr.znpcsplus.interaction.playercommand.PlayerCommandAction;aXMgc2hvcA==;1000;ANY_CLICK;0

@@ -1,0 +1,16 @@
+storage-type: YAML
+line-spacing: 0.3
+database-config:
+  database-name: znpcsplus
+  username: znpcsplus
+  password: password
+  host: localhost
+  port: 3306
+disable-skin-fetcher-warnings: false
+look-property-distance: 10.0
+tab-hide-delay: 60
+tab-display-name: ZNPC[{id}]
+view-distance: 32
+auto-save-interval: 300
+check-for-updates: true
+debug-enabled: false
